@@ -97,4 +97,4 @@
 
 ## Funny😄
 
-<img src="./images/funny.gif" alt="funny-gif-tranquyen" width="40%" align="center"s>
+<img src="./images/funny.gif" alt="funny-gif-tranquyen" width="40%" align="center">
