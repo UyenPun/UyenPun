@@ -90,3 +90,7 @@
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
 </a>
+
+#### Viet Nam Flag
+
+<img src="/images/Flag_of_Vietnam-Animated.gif" width="100%" align="center"/>
