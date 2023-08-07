@@ -95,6 +95,4 @@
 
 <img src="/images/Flag_of_Vietnam-Animated.gif" width="100%" align="center"/>
 
-<!-- ## Funny😄
-
-<img src="./images/funny.gif" alt="funny-gif-tranquyen" width="40%" align="center"> -->
+![Github Banner](banner.png)
