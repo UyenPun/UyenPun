@@ -95,4 +95,6 @@
 
 <img src="/images/Flag_of_Vietnam-Animated.gif" width="100%" align="center"/>
 
+<hr></hr>
+
 ![Github Banner](banner.png)
